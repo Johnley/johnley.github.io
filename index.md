@@ -2,5 +2,4 @@
 layout: default
 ---
 
-| [Powershell Stuff](https://johnley/io/powershell/) | [Twitter](https://twitter.com/SecretlyAlaskan) | Yeet |
-|------|-------|-------|
+| [Powershell Stuff](https://johnley/io/powershell/) | [Blag] | [Twitter](https://twitter.com/SecretlyAlaskan) |
